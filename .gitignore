@@ -1,5 +1,10 @@
 _site
-.sass-cache
+
+# ignore composer vendor directory
+/vendor
+
+.bundle/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-node_modules
 Gemfile.lock
