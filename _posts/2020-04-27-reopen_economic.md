@@ -2,7 +2,7 @@
 layout: post
 title:  "Re-opening the Economy"
 categories: [ diary ]
-image: assets/images/demo1.jpg
+image: assets/images/20200427_00.jpg
 ---
 # Key Points
 
