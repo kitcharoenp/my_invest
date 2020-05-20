@@ -3,6 +3,7 @@ layout: post
 title:  "Marty Schwartz"
 categories: [ book, trader ]
 image: assets/images/demo1.jpg
+tags: [featured]
 ---
 
 # [Market Wizards][Market Wizards]: Interviews with Top Traders
