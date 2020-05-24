@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fears of another wave of virus"
+title: "Extended Period"
 categories: [diary]
 image: assets/images/20200514_00.jpg
 ---
