@@ -13,6 +13,7 @@ image: assets/images/20200520_00.jpg
 * Japan is on course for its worst postwar economic slump [3][3]
 * Asian equities are expected to trade within a limited range in the near term, [4][4]
 * The UK just sold its first ever negative-yielding government bond [5][5]
+* the U.S. Senate passed legislation that could restrict Chinese companies from listing on American exchanges
 
 
 The moves came as China’s 1-year loan prime rate (LPR) was left unchanged at 3.85%. That was largely in line with expectations from a Reuters survey of traders and analysts, where a majority forecasted no changes in either rate at the monthly fixing on Wednesday. [1][1]
@@ -34,6 +35,8 @@ While Asian equities over the last 15 years have moved largely in tandem with th
 In addition, he said South Asian countries will likely see bigger negative impact in terms of earnings and the outlook is unlikely to improve until there are “credible signs of (the) virus coming under control.”  [4][4]
 
 The U.K. borrowed at a negative interest rate for the first time on Wednesday, amid growing fears of a deep global recession and expectations of further bond buying action from central banks.[5][5]
+
+ the U.S. Senate passed legislation on Wednesday that could restrict Chinese companies from listing on American exchanges or raise money from U.S. investors, unless they abide by Washington’s regulatory and audit standards.
 
 [1]: https://www.cnbc.com/2020/05/20/asia-markets-china-loan-prime-rate-coronavirus-currencies-in-focus.html "China keeps benchmark lending rate unchanged"
 
