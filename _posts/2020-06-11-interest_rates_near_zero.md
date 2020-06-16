@@ -20,7 +20,7 @@ The risk of more easing initially had the U.S. dollar under pressure, seeing it 
 
 Texas has reported three consecutive days of record-breaking Covid-19 hospitalizations.
 
-To be sure, former FDA Commissioner Scott Gottlieb said states such as Arizona and Texas “never really got rid of the first wave.” He added: “It’s not a second wave.”
+To be sure, former FDA Commissioner Scott Gottlieb said states such as Arizona and Texas “never really got rid of the first wave.” He added: “It’s not a second wave.” 
 
 
 
