@@ -1,1 +1,5 @@
-<!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
+<!-- This goes before </head> closing tag, Google Analytics can be placed here -->
+
+{%- if site.google_analytics -%}
+  {%- include google-analytics.html -%}
+{%- endif -%}
