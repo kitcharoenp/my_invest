@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Keys to Drawing - Bert Dodson01"
+title : "Keys to Drawing - Bert Dodson 01"
 ---
 
 # INTRODUCTION
