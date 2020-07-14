@@ -3,7 +3,7 @@ layout: post
 title:  "James B. Rojers, Jr"
 categories: [ book, trader ]
 image: assets/images/20200425_00.jpg
-tags: []
+tags: [featured]
 ---
 # [Market Wizards][Market Wizards]: Interviews with Top Traders
 
