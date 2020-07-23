@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "U-shaped economic recovery from pandemic"
 categories: [diary]
 ---
 “With the development in cases continuing to rise, this makes it unlikely that
