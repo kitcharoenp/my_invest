@@ -21,5 +21,20 @@ In addition to keeping rates unchanged, the committee also said it would extend 
 
 “There’s nothing that’s going on in the markets right now that raises any concerns. We want them to be there as a backstop for the markets,” he said.
 
+“But they (Fed) don’t have any tools to engineer a recovery, which means that fiscal policy will need to remain in place to support household incomes, especially as unemployment could increase in the months ahead as the true impact of the shock on the labour market is revealed.” [[2]]
+
+
+The dollar =USD has been tumbling on expectations the Fed will continue its ultra loose monetary policy for years to come and on speculation it will allow inflation to run higher than it has previously indicated before raising interest rates.[[2]]
+
+
+France’s economic slump may not be quite as bad as forecast and activity in the euro zone’s second biggest economy could return to pre-crisis levels in early 2022, the central bank governor has said.[[3]]
+
+“Our forecasts predict a 10% fall in GDP this year: it may be a little better, with a strong rebound afterwards to hopefully regain a pre-COVID level of activity at the start of 2022,” Villeroy said in the interview published on Thursday.
+
+“Public money is not unlimited,” he said. The ‘whatever it takes’ must progressively give way to the ‘when it is needed’.”
 
 [1]: https://www.cnbc.com/2020/07/29/fed-meeting-decision-interest-rates.html "Fed holds rates steady"
+
+[2]: https://www.reuters.com/article/us-global-markets/asian-stocks-rise-dollar-languishes-near-two-year-lows-on-fed-idUSKCN24U3F5 "dollar languishes near two-year lows on Fed"
+
+[3]: https://www.reuters.com/article/us-ecb-policy-villeroy/frances-crisis-recovery-may-be-better-than-expected-central-bank-head-idUSKCN24V0JE "France's crisis recovery may be better than expected"
