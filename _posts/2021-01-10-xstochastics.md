@@ -1,7 +1,7 @@
 ---
 layout : post
 title : "Stochastics"
-category: [technical-analysis]
+category: [terms]
 ---
 
 ### Stochastics: An Accurate Buy and Sell Indicator
