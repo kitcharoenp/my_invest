@@ -6,8 +6,9 @@ image: assets/images/demo1.jpg
 ---
 
 ## Macro
+* Global real GDP is forecasted to grow by 2.2 percent in 2023, down from 3.2 percent in 2022.
 
-Japan has so far maintained looser
+* Japan has so far maintained looser
 policy settings; but any shift away from its current
 yield curve control could lead to unintended
 consequences for the yen and potentially add
@@ -92,6 +93,7 @@ turn less negative.
 ## Equities
 
 ### U.S. equities: Three questions for 2023
+* * The US economy, and the US consumer, have been defying expectations. US consumer spending continued to support real GDP growth despite the dual headwinds of rising interest rates and high inflation.
 * if a recession can be avoided, we
 would expect earnings to be roughly flat relative to 2022
 levels. 
@@ -131,7 +133,9 @@ due to cyclical considerations.
 * Luxury goods companies listed in Europe
 that derive the majority of their revenue from emerging
 consumers. 
+* * Large parts of Europe have likely entered into recession as of Q4 2022
 
+## Emerging Markets
 
 ## Alternatives
 *  Looking across real assets more broadly, infrastructure can
